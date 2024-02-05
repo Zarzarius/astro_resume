@@ -1,0 +1,206 @@
+{
+  "basics": {
+    "name": "Azael Alonso Campana",
+    "label": "Full Stack Developer with 3+ years of experience ",
+    "image": "/me.webp",
+    "email": "azaelalonsocampana@gmail.com",
+    "phone": "+4917621404156",
+    "url": "https://azaleac.dev",
+    "summary": "+3 years of experience as a Web Developer. I live in Cologne, Germany. I have worked mostly in Front-end, focused on React.js but with experience in WebGL and Web design.",
+    "location": {
+      "address": "",
+      "postalCode": "51063",
+      "city": "Cologne",
+      "countryCode": "DE",
+      "region": "Germany"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "azael-alonso-campana-5b1a49207",
+        "url": "https://linkedin.com/in/azael-alonso-campana-5b1a49207"
+      },
+      {
+        "network": "GitHub",
+        "username": "zarzarius",
+        "url": "https://github.com/zarzarius"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Demodern GmbH",
+      "position": "Creative Developer",
+      "url": "https://demodern.com/projects",
+      "startDate": "2021-07-01",
+      "endDate": "2023-10-31",
+      "summary": "",
+      "highlights": [
+        "ThreeJS,React,AR,VR,Metaverse"
+      ]
+    }
+   
+  ],
+  "education": [{
+    "institution": "Digital Career Institute",
+    "url": "https://digitalcareerinstitute.org",
+    "area": "Web Development",
+    "studyType": "Full intensive course/Bootcamp",
+    "startDate": "2020-06-01",
+    "endDate": "2021-06-31",
+    "score": "4.0",
+    "courses": [
+      "Web Development React"
+    ]
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Advanced",
+      "keywords": [
+         "Web Development", "Frontend", "CSS Framework", "Responsive Design"
+      ]
+    },
+    {
+      "name": "Styled Components",
+      "level": "Advanced",
+      "keywords": [
+         "Web Development", "Frontend", "CSS Framework", "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Medium",
+      "keywords": [
+        "Web Development", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Medium",
+      "keywords": [
+        "Web Development", "Backend", "JavaScript", "Server"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Medium",
+      "keywords": [
+        "Data Base", "Mongo", "Backend"
+      ]
+    },
+    {
+      "name": "Strapi",
+      "level": "Medium",
+      "keywords": [
+        "Data Base", "CMS", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "keywords": [
+        "Version Control", "Colaborative Work", "Code Base"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Medium",
+      "keywords": [
+        "Version Control", "Colaborative Work", "Code Base", "Git"
+      ]
+    },
+    {
+      "name": "GitLab",
+      "level": "Medium",
+      "keywords": [
+        "Version Control", "Colaborative Work", "Code Base", "Git", "CI/CD"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Medium",
+      "keywords": [
+        "Web Development", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "German",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Animals",
+      "Unicorns"
+    ]
+  }],
+  "projects": [
+    {
+      "name": "mars.codes",
+      "isActive": true,
+      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "highlights": [
+        "Elige tu propia aventura",
+        "En desarrollo"
+      ],
+      "url": "https://mars.codes"
+    },
+    {
+      "name": "AdventJS",
+      "isActive": true,
+      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "highlights": [
+        "+1 millón de visitas",
+        "Multidioma",
+        "JavaScript & TypeScript"
+      ],
+      "url": "https://advent.js/dev"
+    }
+  ]
+}
